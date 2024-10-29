@@ -32,9 +32,9 @@ Install weather-app with npm
 
 | Color         | Hex                                                                |
 | ------------- | ------------------------------------------------------------------ |
-| Example Color | ![#C989F9](https://via.placeholder.com/10/2b0d6e?text=+) `#2b0d6e` |
-| Example Color | ![#FFFF00](https://via.placeholder.com/10/000000.?text=+) `#000000.`|
-| Example Color | ![#1A1500](https://via.placeholder.com/10/FFFFFF?text=+) `#FFFFFF` |
+| Example Color | ![#2b0d6e](https://via.placeholder.com/10/2b0d6e?text=+) `#2b0d6e` |
+| Example Color | ![#000000](https://via.placeholder.com/10/000000.?text=+) `#000000`|
+| Example Color | ![#FFFFFF](https://via.placeholder.com/10/FFFFFF?text=+) `#FFFFFF` |
 
 
 
