@@ -7,7 +7,7 @@ const Weather = () => {
   const [weatherData, setWeatherData] = useState(null);
   const [forecastData, setForecastData] = useState({});
   const [selectedDay, setSelectedDay] = useState(null);
-  const [changer, setChanger] = useState(null);
+  const [switcher, setSwitcher] = useState(null);
 
 
 
